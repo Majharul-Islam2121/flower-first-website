@@ -1,0 +1,13 @@
+*{margin: 0px;padding: 0px;}
+.header-container{ display: flex; background-color: rgba(229, 84, 115, 0.10);height: 100vh;text-align: center;justify-content: space-around;}
+.header-tittle{text-align: center;margin: 200px;}
+.header-para{color: rgba(39, 39, 39, 0.60);
+    margin-top: 20px;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+  text-align: justify;
+ }
+ .header-info{margin-bottom: 20px; height: 320px;width: 340px;margin-top: 200px;}
+ .header-btn{margin-top: 10px;margin-right:280px;border-radius: 8px;
+    background: #E55473;padding: 5px;color: white;}
