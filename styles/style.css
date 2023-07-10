@@ -2,7 +2,7 @@
 
 /*start header tags*/
 
-.header-container{ display: flex;
+.header-container{ display: flex;margin-right: 20px;margin-top: 20px;margin-bottom: 20px;margin-left: 20px;
    background-color: rgba(229, 84, 115, 0.10);
    height: 100vh;
    text-align: center;
@@ -100,9 +100,9 @@
 
         .hot-img{width: 200px;
           height: 200px;
-          margin-right: 280px;}
+          margin-right: 250px;}
 
-        .hot-tittle{text-align: center;
+        .hot-tittle{text-align: center;margin-left: 50px;
           display: flex;
           margin: auto;
           margin-top: 10px;
@@ -129,4 +129,9 @@
 .cup-photo{width: 200px;
   height: 200px;}
    /*end cup tags*/
+   .buy{text-align: center;font-size: 30px;margin: 20px 0px 20px 0px;}
+.shop-container{display: flex; gap: 10px;margin:0 auto;margin-left: 250px;margin-top: 30px;}
+.shop{width:200px ;height: 200px;background-color: #272727;align-items: center;}
+.buy-money{text-align: center;margin-bottom: 30px;}
 
+.background-container{background-image: url('Flower Asset\Rectangle 9.png');}
